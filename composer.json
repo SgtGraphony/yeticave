@@ -1,0 +1,16 @@
+{
+    "name": "artyom/yeticave",
+    "description": "Online Auction",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Artyom Skurygin",
+            "email": "smokejkee@gmail.com"
+        }
+    ],
+    "require": {
+        "friendsofphp/php-cs-fixer": "^3.16",
+        "swiftmailer/swiftmailer": "^5.4"
+    }
+}
